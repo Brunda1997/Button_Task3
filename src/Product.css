@@ -1,0 +1,49 @@
+.planet{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.planet_system{
+    padding: 20px;
+    margin: 30px;
+    
+}
+button{
+    font-size:20px;
+    margin:0 30% 0 7%;
+    padding: 0 20px ;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f44336;
+  text-decoration: none;
+  background-color: #82CAFA;
+  display: inline-block;
+  border-color: #82CAFA;
+  font-family: sans-serif;
+    
+}
+header{
+    background-image:url('./images/solar.jpg');
+    height:60px;
+    width:100%;
+    padding-top:20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 1500px 100px;
+    margin-top:10px;
+    
+}
+
+ .planets{
+   
+    background-image: url('./images/blue.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 

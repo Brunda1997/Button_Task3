@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
-import Button from './Button'
+import Product from './Product';
 
 
 
 function App() {
 return(
   <>
-  <Button/>
+ 
+    <Product/>
  
 </>
 );
